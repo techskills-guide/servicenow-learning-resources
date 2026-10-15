@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://techskills-guide.github.io/servicenow-learning-resources/sitemap.xml
